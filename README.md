@@ -295,6 +295,26 @@ Perform a comprehensive comparison of all forecasting approaches and summarize p
 - Model Interpretation
 
 ---
+# 🎥 Project Demo
+
+Want to understand the project in under a minute?
+
+This short demo explains the problem, the solution, and how the forecasting model works in simple, non-technical language.
+
+### 📺 Watch the Demo
+
+▶️ **[Telecom Tower Energy Consumption Forecasting Demo](https://drive.google.com/file/d/1tHKcYqNb6UGi3ZOg7St9S5XAdwpCTQYy/view?usp=sharing)**
+
+### 📌 What you'll see
+
+- 📡 Why forecasting telecom tower energy consumption is important
+- ⚠️ Challenges of inaccurate energy planning
+- 📊 How historical data is transformed into meaningful features
+- 🤖 How Time Series Analysis and LightGBM predict future energy consumption
+- 📈 Model comparison and forecasting results
+- 🌍 Real-world applications and impact
+
+> 💡 *This demo is designed for both technical and non-technical audiences to provide a quick overview of the project.*
 
 # 🚀 Future Improvements
 
