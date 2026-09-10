@@ -53,6 +53,7 @@ Hourly-Energy-Consumption
 │   ├── 02_Baseline_Time_Series_Forecasting.ipynb
 │   ├── 03_Feature_Engineering_and_LightGBM.ipynb
 │   └── 04_Final_Model_Comparison_and_Analysis.ipynb
+|   └── 05_LSTM_Time_Series_Forecasting.ipynb
 │
 └── README.md
 ```
