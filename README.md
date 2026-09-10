@@ -259,41 +259,45 @@ Perform a comprehensive comparison of all forecasting approaches and summarize p
 - Final Conclusions
 
 ---
-#📘 Notebook 5 — LSTM Time Series Forecasting
-🎯 Objective
+# 📘 Notebook 5 — LSTM Time Series Forecasting
 
-Develop a Long Short-Term Memory (LSTM) model from scratch using PyTorch to forecast hourly telecom tower energy consumption and compare its performance with previously implemented statistical and machine learning models.
+### 🎯 Objective
 
-Tasks Performed
-Applied Min-Max scaling to the dataset
-Created 24-hour sliding window sequences
-Converted data into PyTorch tensors
-Built an LSTM model from scratch
-Trained the model using MSE Loss and Adam optimizer
-Generated predictions on the test dataset
-Visualized the training loss curve
-Compared predicted values with actual observations
-Evaluated the model using MAE, RMSE, and MAPE
-Added LSTM results to the overall model leaderboard
-Improvements Implemented
+Develop a **Long Short-Term Memory (LSTM)** model from scratch using **PyTorch** to forecast hourly telecom tower energy consumption and compare its performance with previously implemented statistical and machine learning models.
 
-✅ Implemented an LSTM model from scratch using PyTorch without any high-level forecasting libraries
+### Tasks Performed
+
+- Applied Min-Max scaling to the dataset
+- Created 24-hour sliding window sequences
+- Converted data into PyTorch tensors
+- Built an LSTM model from scratch
+- Trained the model using MSE Loss and Adam optimizer
+- Generated predictions on the test dataset
+- Visualized the training loss curve
+- Compared predicted values with actual observations
+- Evaluated the model using MAE, RMSE, and MAPE
+- Added LSTM results to the overall model leaderboard
+
+### Improvements Implemented
+
+✅ Implemented an LSTM model from scratch using PyTorch
 
 ✅ Used sliding window sequence generation to capture temporal dependencies
 
-✅ Added training loss visualization to monitor convergence
+✅ Added training loss visualization to monitor model convergence
 
 ✅ Compared LSTM performance with Naive, Seasonal Naive, SARIMA, and LightGBM models
 
-✅ Explained the working of LSTM gates, vanishing gradient problem, and teacher forcing
+✅ Documented the concepts of LSTM gates, vanishing gradient, and teacher forcing
 
-Outputs
-Trained LSTM Model
-Training Loss Curve
-LSTM Predictions vs Actual Plot
-Performance Metrics (MAE, RMSE, MAPE)
-Updated Model Leaderboard
-Comparative Model Analysis
+### Outputs
+
+- Trained LSTM Model
+- Training Loss Curve
+- Predictions vs Actual Visualization
+- Performance Metrics
+- Updated Leaderboard
+- Model Performance Analysis
 
 # 📊 Evaluation Metrics
 
@@ -329,6 +333,7 @@ Comparative Model Analysis
 - Forecast Accuracy Evaluation
 - Fair Model Comparison
 - Model Interpretation
+- LSTM 
 
 ---
 # 🎥 Project Demo
